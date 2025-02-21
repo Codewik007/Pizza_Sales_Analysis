@@ -1,6 +1,6 @@
 # Pizza Sales Data Analysis and Business Insights using SQL
 
-Pizza Sales Data Analysis Using MySQL 🍕
+Pizza Sales Data Analysis Using MySQL 
 
 Designed and implemented a relational database for a pizza store, analyzing key business metrics through SQL queries. 
 Key highlights:
