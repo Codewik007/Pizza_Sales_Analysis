@@ -16,4 +16,4 @@ Key highlights:
 
 This project demonstrates my expertise in the following: 
 
-SQL, database management, and business analytics, helping businesses make data-driven decisions.
+1). SQL, database management, and business analytics, helping businesses make data-driven decisions.
