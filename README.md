@@ -20,4 +20,4 @@ This project demonstrates my expertise in the following:
 
 2). Database Management,
 
-3). and business analytics, helping businesses make data-driven decisions.
+3). Business analytics, helping businesses make data-driven decisions.
