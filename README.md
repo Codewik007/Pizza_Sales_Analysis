@@ -3,6 +3,7 @@
 Pizza Sales Data Analysis Using MySQL 
 
 Designed and implemented a relational database for a pizza store, analyzing key business metrics through SQL queries. 
+
 Key highlights:
 
 1). Database Design: Created structured tables for orders, pizzas, and sales transactions.
