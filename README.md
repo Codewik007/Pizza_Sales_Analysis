@@ -13,4 +13,4 @@ Key highlights:
 
 4). Advanced SQL Techniques: Used CTEs, window functions, and joins to analyze revenue distribution, order frequency, and pizza category performance.
 
-This project demonstrates my expertise in: SQL, database management, and business analytics, helping businesses make data-driven decisions.
+This project demonstrates my expertise in the following: SQL, database management, and business analytics, helping businesses make data-driven decisions.
